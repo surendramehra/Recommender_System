@@ -20,7 +20,7 @@ The three fields -- user_id, rating, and the movie_title -- are separated by a s
 
 ```
 $ git clone https://github.com/surendramehra/Recommender_System.git
-$ cd recommender-system-for-ecommerce
+$ cd Recommender_System
 $ sudo apt-get install python-pip
 $ sudo pip install numpy
 $ sudo pip install pandas
