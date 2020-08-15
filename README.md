@@ -19,7 +19,7 @@ The three fields -- user_id, rating, and the movie_title -- are separated by a s
 ### Run
 
 ```
-$ git clone https://github.com/Loyelnaz/recommender-system-for-ecommerce.git
+$ git clone https://github.com/surendramehra/Recommender_System.git
 $ cd recommender-system-for-ecommerce
 $ sudo apt-get install python-pip
 $ sudo pip install numpy
